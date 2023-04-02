@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iumutdikbasan&label=Profile%20views&color=0e75b6&style=flat" alt="iumutdikbasan" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring**
 
 - 💬 Ask me about **Backend and Data Science**
 
