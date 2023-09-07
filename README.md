@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 💬 Ask me about **Backend**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **iumutdikbasan@gmail.com**
 
