@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iumutdikbasan&label=Profile%20views&color=0e75b6&style=flat" alt="iumutdikbasan" /> </p>
 
-- 🌱 I’m currently learning **Design Patterns, Messaging Systems, Docker**
+- 🌱 I’m currently learning **Design Patterns, Messaging Systems and Docker**
 
 - 📫 How to reach me **iumutdikbasan@gmail.com**
 
